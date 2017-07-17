@@ -1,6 +1,6 @@
 Google Store Inventory App created with Angular 2 and Ionic 2.
 
-Allows the user view various products modeled after prodcts taken from the Google store. Products can be viewed either by product name or product category.
+Allows the user view various products modeled after products from the Google store. Products can be viewed either by product name or product category.
 
 Completed as the final project for my Hybrid Mobile Apps Development Class.
 
