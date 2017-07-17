@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Google Store</ion-title>
+  </ion-navbar>
+  <ion-toolbar color="secondary">
+        <ion-title>Categories (CategoryListComponent)</ion-title>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+
+  <!--<h3>{{ pageMessage}}</h3>-->
+
+    <button ion-item *ngFor="let category of categories" 
+        (click)="itemTapped($event, category)">
+        {{category.categoryName}}
+    </button>
+
+
+
+
+
+</ion-content>
