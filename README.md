@@ -1,5 +1,5 @@
 # Google Store Inventory App 
-Allows the user view various products modeled after products from the Google store. Products can be viewed either by product name or product category.
+An app that allows the user view various products modeled after products from the Google store. Products can be viewed either by product name or product category.
 
 ## Project Motivation
 Created as the final project for an Independant study in Hybrid-mobile app development that took place from Fall 2017 to Spring 2018.
